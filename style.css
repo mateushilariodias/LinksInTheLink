@@ -9,7 +9,7 @@ html {
   --text-color: #000000;
 }
 
-body.dark {
+body {
   --bg-color: #000000;
   --text-color: #ffffff;
 }
@@ -31,8 +31,6 @@ body {
 
 img {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
   padding: 4px;
 }
 
